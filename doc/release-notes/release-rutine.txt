@@ -66,13 +66,9 @@
 * Publicar noticia en twitter ASPL_es
 
 * Retuitear como {4}
-* Publicar entrada en google business (Novedad)
+* Enlazar noticia con google plus.
 
-* Cerrar release y hacer un tag release en github.com:
-
-   - https://github.com/ASPLes/nopoll/releases/new
-     
-     
+* Cerrar release y hacer un tag release en github.com
 
 
 
